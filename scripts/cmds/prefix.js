@@ -1,1 +1,79 @@
-function _0x51b1(_0x36fb63,_0x1641df){const _0x163be9=_0xdb82();return _0x51b1=function(_0x2b1761,_0x3cfc11){_0x2b1761=_0x2b1761-(-0x1bc4+-0xe*0xa4+0x2671);let _0x20ba29=_0x163be9[_0x2b1761];return _0x20ba29;},_0x51b1(_0x36fb63,_0x1641df);}const _0x5c11b4=_0x51b1;(function(_0x52a360,_0x266d09){const _0x4081f2=_0x51b1,_0x24b1b8=_0x52a360();while(!![]){try{const _0xc723ae=parseInt(_0x4081f2(0x1dc))/(0x42b+-0x26ec+0x1161*0x2)*(-parseInt(_0x4081f2(0x1d4))/(0x91f*-0x2+-0x191*0xd+0x269d))+-parseInt(_0x4081f2(0x1c3))/(0x67f+-0x2536*0x1+-0x39*-0x8a)+parseInt(_0x4081f2(0x1dd))/(-0x199*0x10+-0x3fa+0x246*0xd)*(-parseInt(_0x4081f2(0x1cb))/(-0x324*-0x3+0x19ab*0x1+-0x2312))+-parseInt(_0x4081f2(0x1c7))/(-0x1f72+-0x1d81*0x1+-0x16b*-0x2b)+parseInt(_0x4081f2(0x1d0))/(-0x1a6d+-0x17ca+0x323e)*(-parseInt(_0x4081f2(0x1d7))/(0x662+-0x4*0x64f+0x12e2*0x1))+-parseInt(_0x4081f2(0x1b7))/(0xbeb*-0x2+0x1188+0x21d*0x3)*(parseInt(_0x4081f2(0x1e0))/(-0x1aa0+-0xfb*0x1d+0x3719))+-parseInt(_0x4081f2(0x1b8))/(-0x1981*0x1+-0x1ac9+0x3455)*(-parseInt(_0x4081f2(0x1bd))/(0xb13+0x27c*-0x3+-0x393));if(_0xc723ae===_0x266d09)break;else _0x24b1b8['push'](_0x24b1b8['shift']());}catch(_0x5d76f0){_0x24b1b8['push'](_0x24b1b8['shift']());}}}(_0xdb82,-0x1004f9+-0x7cfc5+0x222ee6));const axios=require(_0x5c11b4(0x1c5));function _0xdb82(){const _0x48c2ad=['romURL','based\x20on\x20t','━━\x0a\x0a╔═════','zuBOG','includes','yapi.onren','═•|\x20💛\x20|•══','Prefix','2.0','━━━━\x0a╔╝❮❮𝐉','BiVOJ','Send\x20video','th\x20differe','6759BwxrSy','3803943sUNAxD','der.com/ra','•═════╝\x0a━━','\x20emoji','═══╝','204YoCIhT','Joy','get','ent.','•|\x20💛\x20|•═══','\x20\x20.\x20\x20★\x0a\x20╚═','1077501GnsmxG','prefix','axios','he\x20emoji\x20s','6947292pHBwPn','getStreamF','utils','body','2194635MoYLWS','𝐓-𝐏𝐑𝐄𝐅𝐈𝐗-\x20','EEvFK','𝐍𝐄𝐑:\x20𝐉𝐎𝐘\x20𝐀','𝐎𝐘-𝐁𝐎𝐓❯❯╚╗','42MHBkZt','ndom','reply','════•|\x20💛\x20|','828vxfEyf','━━━━━━━━━━','𝐇𝐌𝐄𝐃\x0a╚════','1530208aFSHCz','═╗\x0a★𝐉𝐎𝐘-𝐁𝐎','|\x20💛\x20|•════','IcbJX','video','1288HVGLjk','12wbreSE','s\x20based\x20on','\x0a\x0a\x20╔═════•','9130WXhLdv','no\x20prefix','https://jo','Replies\x20wi','══╗\x0a𝐁𝐎𝐓\x20𝐎𝐖','nt\x20videos\x20','exports'];_0xdb82=function(){return _0x48c2ad;};return _0xdb82();}module[_0x5c11b4(0x1e6)]={'config':{'name':_0x5c11b4(0x1c4),'version':_0x5c11b4(0x1ef),'author':_0x5c11b4(0x1be),'countDown':0x5,'role':0x0,'shortDescription':_0x5c11b4(0x1b5)+_0x5c11b4(0x1de)+_0x5c11b4(0x1bb),'longDescription':_0x5c11b4(0x1e3)+_0x5c11b4(0x1b6)+_0x5c11b4(0x1e5)+_0x5c11b4(0x1e8)+_0x5c11b4(0x1c6)+_0x5c11b4(0x1c0),'category':_0x5c11b4(0x1e1)},'onStart':async function(){},'onChat':async function({event:_0x9221a6,message:_0x3d9fe8}){const _0x3ea88b=_0x5c11b4,_0x247df3={'IcbJX':_0x3ea88b(0x1c4),'zuBOG':_0x3ea88b(0x1ee),'EEvFK':_0x3ea88b(0x1e2)+_0x3ea88b(0x1ec)+_0x3ea88b(0x1b9)+_0x3ea88b(0x1d1),'BiVOJ':_0x3ea88b(0x1d5)+_0x3ea88b(0x1f0)+_0x3ea88b(0x1cf)+_0x3ea88b(0x1df)+_0x3ea88b(0x1d9)+_0x3ea88b(0x1d8)+_0x3ea88b(0x1cc)+_0x3ea88b(0x1c2)+_0x3ea88b(0x1d3)+_0x3ea88b(0x1ba)+_0x3ea88b(0x1d5)+_0x3ea88b(0x1e9)+_0x3ea88b(0x1c1)+_0x3ea88b(0x1e4)+_0x3ea88b(0x1ce)+_0x3ea88b(0x1d6)+_0x3ea88b(0x1ed)+_0x3ea88b(0x1bc)},_0x3e9dae=[_0x247df3[_0x3ea88b(0x1da)],_0x247df3[_0x3ea88b(0x1ea)]];if(!_0x3e9dae[_0x3ea88b(0x1eb)](_0x9221a6[_0x3ea88b(0x1ca)]))return;try{const {data:_0x4b58df}=await axios[_0x3ea88b(0x1bf)](_0x247df3[_0x3ea88b(0x1cd)]);if(!_0x4b58df[_0x3ea88b(0x1db)])return _0x3d9fe8[_0x3ea88b(0x1d2)]('');_0x3d9fe8[_0x3ea88b(0x1d2)]({'body':_0x247df3[_0x3ea88b(0x1f1)],'attachment':await global[_0x3ea88b(0x1c9)][_0x3ea88b(0x1c8)+_0x3ea88b(0x1e7)](_0x4b58df[_0x3ea88b(0x1db)])});}catch{_0x3d9fe8[_0x3ea88b(0x1d2)]('');}}};
+const fs = require("fs-extra");
+const { utils } = global;
+const UpolUrl = ["https://i.imgur.com/AP0ppm0.jpeg"];
+const UpolImage = UpolUrl[Math.floor(Math.random() * UpolUrl.length)];
+
+module.exports = {
+  config: {
+    name: "prefix",
+    version: "1.3",
+    author: "NTKhang | UPoL🐔",
+    role: 0,
+  },
+
+  langs: {
+    en: {
+      reset: "Your prefix has been reset to default: %1",
+      onlyAdmin: "Only admin can change prefix of system bot",
+      confirmGlobal: "Please react to this message to confirm change prefix of system bot",
+      confirmThisThread: "Please react to this message to confirm change prefix in your box chat",
+      successGlobal: "Changed prefix of system bot to: %1",
+      successThisThread: "Changed prefix in your box chat to: %1",
+      myPrefix: " 🗡️ My Bankai is: %2"
+    }
+  },
+
+  onStart: async function ({ message, role, args, commandName, event, threadsData, getLang }) {
+    if (!args[0])
+      return message.SyntaxError();
+
+    if (args[0] == 'reset') {
+      await threadsData.set(event.threadID, null, "data.prefix");
+      return message.reply(getLang("reset", global.GoatBot.config.prefix));
+    }
+
+    const newPrefix = args[0];
+    const formSet = {
+      commandName,
+      author: event.senderID,
+      newPrefix
+    };
+
+    if (args[1] === "-g")
+      if (role < 2)
+        return message.reply(getLang("onlyAdmin"));
+      else
+        formSet.setGlobal = true;
+    else
+      formSet.setGlobal = false;
+
+    return message.reply(args[1] === "-g" ? getLang("confirmGlobal") : getLang("confirmThisThread"), (err, info) => {
+      formSet.messageID = info.messageID;
+      global.GoatBot.onReaction.set(info.messageID, formSet);
+    });
+  },
+
+  onReaction: async function ({ message, threadsData, event, Reaction, getLang }) {
+    const { author, newPrefix, setGlobal } = Reaction;
+    if (event.userID !== author)
+      return;
+    if (setGlobal) {
+      global.GoatBot.config.prefix = newPrefix;
+      fs.writeFileSync(global.client.dirConfig, JSON.stringify(global.GoatBot.config, null, 2));
+      return message.reply(getLang("successGlobal", newPrefix));
+    }
+    else {
+      await threadsData.set(event.threadID, newPrefix, "data.prefix");
+      return message.reply(getLang("successThisThread", newPrefix));
+    }
+  },
+
+  onChat: async function ({ event, message, getLang }) {
+    if (event.body && event.body.toLowerCase() === "prefix") {
+        const attachment = await utils.getStreamFromURL(UpolImage);
+      return () => {
+        return message.reply({ body: getLang("myPrefix", global.GoatBot.config.prefix, utils.getPrefix(event.threadID)), attachment: attachment });
+      };
+     }
+  }
+};
